@@ -1,0 +1,11 @@
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Datos.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Entidad.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Datos.pdb
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\bin\Debug\Entidad.pdb
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb

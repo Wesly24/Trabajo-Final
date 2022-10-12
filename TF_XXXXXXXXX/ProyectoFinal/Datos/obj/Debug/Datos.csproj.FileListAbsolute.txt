@@ -1,0 +1,9 @@
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\bin\Debug\Datos.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\bin\Debug\Entidad.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\bin\Debug\Entidad.pdb
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.dll
+D:\OneDrive - Universidad Peruana de Ciencias\RICHARD\VISUAL\ProyectoFinal\Datos\obj\Debug\Datos.pdb
